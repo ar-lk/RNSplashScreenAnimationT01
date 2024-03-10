@@ -1,13 +1,13 @@
 This is a test app to initialize Lottie files animations as a splash screen in react native app.
 
 ### Figma Design
-![](https://github.com/ar-lk/GoogleMLTextDetectT01/blob/main/sample/sample_figma.png)
+![](https://github.com/ar-lk/RNSplashScreenAnimationT01/blob/main/sample/sample_figma.png)
 
 [Figma Design Link](https://www.figma.com/file/VR7JQ2Bf0aoH4ii3iSPYZj/Splash-Screen-Design-01?type=design&node-id=0%3A1&mode=design&t=VTUZrn3qfzUcSkds-1).
 
 ### Preview
 
-![](https://github.com/ar-lk/GoogleMLTextDetectT01/blob/main/sample/sample_video.gif)
+![](https://github.com/ar-lk/RNSplashScreenAnimationT01/blob/main/sample/sample_video.gif)
 
 # Getting Started
 
